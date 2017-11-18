@@ -1,0 +1,8 @@
+@inproceedings{sai2015salobj,
+  title={Salient Object Detection via Objectness Measure},
+  author={Srivatsa R, Sai and Babu, R Venkatesh},
+  booktitle={Image Processing (ICIP), 2015 IEEE International Conference on},
+  year={2015},
+  organization={IEEE}
+}
+
